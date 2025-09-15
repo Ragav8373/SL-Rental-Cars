@@ -82,7 +82,7 @@ const HeaderLogo = () => (
     style={{
       width: 50,
       height: 50,
-      marginRight: 20,
+      marginRight: 25,
       // resizeMode: 'contain',
       borderRadius:20,
     }}
